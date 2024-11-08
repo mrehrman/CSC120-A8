@@ -1,0 +1,3 @@
+public enum SuperheroWeapon{
+    HAMMER, SHIELD, LIGHTNING_BOLT, BOW_AND_ARROWS, LASSO, OTHER; 
+}
